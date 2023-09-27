@@ -1,4 +1,4 @@
-name: sub_merge1
+name: sub_merge
 
 on:
   workflow_dispatch:
