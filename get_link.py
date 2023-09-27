@@ -1,4 +1,4 @@
-import re1
+import re
 import requests
 import random, string
 
