@@ -1,4 +1,4 @@
-import requests1
+import requests
 import os
 
 def get_yaml():
