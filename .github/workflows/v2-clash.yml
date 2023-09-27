@@ -33,8 +33,8 @@ jobs:
         python ./Test.py
     - name: 提交更改
       run: |                 
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
         git pull origin main
         git add ./output.yaml
         git commit -m "$(date '+%Y-%m-%d %H:%M:%S') sub_merge_node"
