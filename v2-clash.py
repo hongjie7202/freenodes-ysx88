@@ -9,7 +9,7 @@ import socket
 vmess = []
 def log(msg):
     time = datetime.datetime.now()
-    print('[' + time.strftime('%Y.%m.%d-%H:%M:%S') + '] ' + msg)
+    print('[' + time.strftime('%Y.%m.%d-%H:%M:%S') + '] ' + msg)1
 
 
 # 保存到文件
