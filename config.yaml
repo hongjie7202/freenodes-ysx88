@@ -2,7 +2,7 @@
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
 #---------------------------------------------------#
 
-# HTTP 代理端口1
+# HTTP 代理端口
 port: 7890 
 
 # SOCKS5 代理端口
