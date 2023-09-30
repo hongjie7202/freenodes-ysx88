@@ -58,7 +58,7 @@
 </details>
 
 ### Try the number of high-speed subscriptions: `4`
-Updata：`2023-10-01 02:24:32`
+Updata：`2023-10-01 02:14:06`
 
 
 <details>
@@ -20472,5 +20472,45 @@ Updata：`2023-10-01 02:24:32`
 
 
 
-</details>
 
+
+
+
+
+
+>Trial subscription：
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=13bff09472409c29e66cdd3f2c61b1ba`
+
+
+
+
+>Trial subscription：
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=13bff09472409c29e66cdd3f2c61b1ba`
+
+>Trial subscription：
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=8a873f29de36544df951c81346b05a24`
+
+
+
+>Trial subscription：
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=8a873f29de36544df951c81346b05a24`
+
+
+>Trial subscription：
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=7b09098582839bbc777cdb610cd00007`
+
+
+>Trial subscription：
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=7b09098582839bbc777cdb610cd00007`
+
+
+
+>Trial subscription：
+`https://oss.v2rayse.com/proxies/data/2023-09-30/MeYaqfd.txt`
+
+>Trial subscription：
+`https://oss.v2rayse.com/proxies/data/2023-09-30/MeYaqfd.txt`
+
+
+
+</details>
