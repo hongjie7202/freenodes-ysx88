@@ -20594,38 +20594,46 @@ Updata：`2023-10-02 20:20:20`
 
 
 
->Trial subscription：
-`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=b89f4817775f121d1e404958d850deda`
+
+
+
+
 
 
 
 
 >Trial subscription：
-`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=b89f4817775f121d1e404958d850deda`
-
->Trial subscription：
-`https://fastestcloud.xyz/api/v1/client/subscribe?token=23a93a33b833a72d6867de7cc1dfee6e`
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=148f7908c65a698a0b32a883781394fb`
 
 
-
->Trial subscription：
-`https://fastestcloud.xyz/api/v1/client/subscribe?token=23a93a33b833a72d6867de7cc1dfee6e`
 
 
 >Trial subscription：
-`https://www.ckcloud.xyz/api/v1/client/subscribe?token=ad75e622b5e16da9a3bf6d4245c3e172`
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=148f7908c65a698a0b32a883781394fb`
+
+>Trial subscription：
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=b1a90f0e82f5c27d9648761d4d9f7162`
+
 
 
 >Trial subscription：
-`https://www.ckcloud.xyz/api/v1/client/subscribe?token=ad75e622b5e16da9a3bf6d4245c3e172`
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=b1a90f0e82f5c27d9648761d4d9f7162`
 
+
+>Trial subscription：
+`https://oss.v2rayse.com/proxies/data/2023-10-02/UEHCN45.txt`
 
 
 >Trial subscription：
 `https://oss.v2rayse.com/proxies/data/2023-10-02/UEHCN45.txt`
 
+
+
 >Trial subscription：
-`https://oss.v2rayse.com/proxies/data/2023-10-02/UEHCN45.txt`
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=f46b5f626e4ba638ff0696aa08c6165b`
+
+>Trial subscription：
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=f46b5f626e4ba638ff0696aa08c6165b`
 
 
 
