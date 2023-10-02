@@ -20632,7 +20632,7 @@ Updata：`2023-10-02 20:20:20`
 </details>
 
 ## ✨Star count
-[![Star History Chart](https://api.star-history.com/svg?repos=w1770946466/Auto_proxy&type=Date)](https://star-history.com/#w1770946466/Auto_proxy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ysx88/freenodes&type=Date)](https://star-history.com/#ysx88/freenodes&Date)
 
 
 
