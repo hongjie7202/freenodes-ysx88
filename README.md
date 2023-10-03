@@ -20676,22 +20676,30 @@ Updata：`2023-10-02 20:20:20`
 
 
 
->Trial subscription：
-`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=ec3d41f2219c16ee15bc3a2c3d1db328`
+
+
+
+
 
 
 
 
 >Trial subscription：
-`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=ec3d41f2219c16ee15bc3a2c3d1db328`
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=eb53dbba2ffe4424bdef92455270d63d`
+
+
+
 
 >Trial subscription：
-`https://fastestcloud.xyz/api/v1/client/subscribe?token=f7f8272f5c30e64d40e9e87e350c03f9`
+`https://xn--30rs3bu7r87f.com/api/v1/client/subscribe?token=eb53dbba2ffe4424bdef92455270d63d`
+
+>Trial subscription：
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=f74881726f11adcbca9d489e210116d2`
 
 
 
 >Trial subscription：
-`https://fastestcloud.xyz/api/v1/client/subscribe?token=f7f8272f5c30e64d40e9e87e350c03f9`
+`https://fastestcloud.xyz/api/v1/client/subscribe?token=f74881726f11adcbca9d489e210116d2`
 
 
 >Trial subscription：
@@ -20704,10 +20712,10 @@ Updata：`2023-10-02 20:20:20`
 
 
 >Trial subscription：
-`https://www.ckcloud.xyz/api/v1/client/subscribe?token=5255218fb1bbb4830e167453fd51b7b2`
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=590f699f8c84a692ad695af3198731cb`
 
 >Trial subscription：
-`https://www.ckcloud.xyz/api/v1/client/subscribe?token=5255218fb1bbb4830e167453fd51b7b2`
+`https://www.ckcloud.xyz/api/v1/client/subscribe?token=590f699f8c84a692ad695af3198731cb`
 
 
 
