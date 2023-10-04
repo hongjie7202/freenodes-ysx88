@@ -56,3 +56,7 @@
 `https://raw.githubusercontent.com/ysx88/freenodes/main/Long_term_subscription3.yaml`
   
 </details>
+
+
+## Repository statement
+The proxy node is intended solely for educational and informational purposes. It is not intended for any illegal or illicit activities. The resources provided on this node are collected from the Internet for the purpose of facilitating communication and learning among users. It is not intended for use by users in mainland China, and those users are encouraged to refrain from using this node. The operators of this node will not be held responsible for any illegal or inappropriate use of the resources provided.
